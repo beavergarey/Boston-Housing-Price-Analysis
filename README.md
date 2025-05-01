@@ -15,3 +15,6 @@ The analysis follows the CRISP-DM (Cross-Industry Standard Process for Data Mini
 data: boston.csv
 
 jupyter notebooks: Boston_Housing_Price_Analysis.ipynb
+
+# How to Run the Project
+run jupyter notebook notebooks/Boston_Housing_Price_Analysis.ipynb
